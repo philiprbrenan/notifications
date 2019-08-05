@@ -1,9 +1,9 @@
-# Convert to Dita  completed with 100 % success
+# Convert gh to Dita s3://salesforce.dita/originals3/ GH completed with 87.1302 % success and 87 failing files
 
-100 % success. Projects: 0+1=1.  Files: 0+3=3. Errors: 0,0  On 2019-08-01 at 13:27:02
+87.1302 % success. Projects: 1+0=1.  Files: 87+589=676. Errors: 17,122  On 2019-08-05 at 20:14:26
 
-Xref: 1 ref
 
-Please see: http:///gh/results.zip
+
+Please see: /home/phil/r/www/conversions/gh/publications/
 
 http://www.ryffine.com
