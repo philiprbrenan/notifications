@@ -1,9 +1,9 @@
-# Convert gh to Dita https://github.com/philiprbrenan/oxygenWorkShop GH completed with 95 % success and 3 failing files
+# Convert salesForce to Dita Othermeta completed with 100 % success
 
-95 % success. Projects: 1+0=1.  Files: 3+57=60. Errors: 2,3  On 2019-08-05 at 21:35:28
+100 % success. Projects: 0+1=1.  Files: 0+2=2. Errors: 0,0  On 2019-08-06 at 17:07:28
+
+Xref: 133 refs
 
 
-
-Please see: http://3.15.2.52/gh/results.zip
 
 http://www.ryffine.com
