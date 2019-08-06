@@ -1,9 +1,9 @@
-# Convert salesForce to Dita Othermeta completed with 100 % success
+# Convert to Dita  completed with 100 % success
 
-100 % success. Projects: 0+1=1.  Files: 0+2=2. Errors: 0,0  On 2019-08-06 at 23:41:50
+100 % success. Projects: 0+1=1.  Files: 0+3=3. Errors: 0,0  On 2019-08-07 at 00:38:48
 
-Xref: 133 refs
+Xref: 1 ref
 
-
+Please see: http:///gh/results.zip
 
 http://www.ryffine.com
