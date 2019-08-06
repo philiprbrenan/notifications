@@ -1,6 +1,6 @@
-# Convert salesForce to Dita s3://salesforce.dita/originals3/ SelfServiceXref completed with 87.2059 % success and 87 failing files
+# Convert salesForce to Dita s3://salesforce.dita/originals2/ Othermeta completed with 99.9932 % success and 3 failing files
 
-87.2059 % success. Projects: 1+0=1.  Files: 87+593=680. Errors: 17,122  On 2019-08-06 at 21:13:02
+99.9932 % success. Projects: 1+0=1.  Files: 3+44063=44066. Errors: 92,1159  On 2019-08-06 at 18:25:45
 
 
 
