@@ -1,9 +1,9 @@
-# Convert salesForce to Dita s3://salesforce.dita/originals3/ SelfServiceXref completed with 87.2059 % success and 87 failing files
+# Convert salesForce to Dita Othermeta completed with 100 % success
 
-87.2059 % success. Projects: 1+0=1.  Files: 87+593=680. Errors: 17,122  On 2019-08-06 at 21:59:52
+100 % success. Projects: 0+1=1.  Files: 0+2=2. Errors: 0,0  On 2019-08-06 at 23:41:50
+
+Xref: 133 refs
 
 
-
-Please see: exchange.ryffine/users/aws/salesForce/
 
 http://www.ryffine.com
