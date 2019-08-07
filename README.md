@@ -1,9 +1,9 @@
-# Convert salesForce to Dita RelTable completed with 100 % success
+# Convert salesForce to Dita s3://salesforce.dita/originals3/ SelfServiceXref completed with 87.2059 % success and 87 failing files
 
-100 % success. Projects: 0+1=1.  Files: 0+44063=44063. Errors: 0,0  On 2019-08-07 at 00:49:56
+87.2059 % success. Projects: 1+0=1.  Files: 87+593=680. Errors: 17,122  On 2019-08-07 at 01:42:58
 
-Xref: 4045 refs, 3391 image refs, 2319 duplicate topic ids, 1202 hrefs missing, 487 duplicate ids, 3 tables, 1 href url encoding
 
-Please see: aws s3 sync s3://salesforce.dita/results2/ or exchange.ryffine/users/aws/salesForce/
+
+Please see: exchange.ryffine/users/aws/salesForce/
 
 http://www.ryffine.com
