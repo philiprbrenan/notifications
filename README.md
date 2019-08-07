@@ -1,9 +1,9 @@
-# Convert to Dita  completed with 100 % success
+# Convert salesForce to Dita RelTable completed with 100 % success
 
-100 % success. Projects: 0+1=1.  Files: 0+3=3. Errors: 0,0  On 2019-08-07 at 00:38:48
+100 % success. Projects: 0+1=1.  Files: 0+44063=44063. Errors: 0,0  On 2019-08-07 at 00:49:56
 
-Xref: 1 ref
+Xref: 4045 refs, 3391 image refs, 2319 duplicate topic ids, 1202 hrefs missing, 487 duplicate ids, 3 tables, 1 href url encoding
 
-Please see: http:///gh/results.zip
+Please see: aws s3 sync s3://salesforce.dita/results2/ or exchange.ryffine/users/aws/salesForce/
 
 http://www.ryffine.com
