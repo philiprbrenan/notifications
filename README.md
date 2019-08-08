@@ -1,9 +1,9 @@
-# Convert to Dita  completed with 100 % success
+# Convert salesForce to Dita RelTable completed with 100 % success
 
-100 % success. Projects: 0+1=1.  Files: 0+3=3. Errors: 0,0  On 2019-08-08 at 03:13:29
+100 % success. Projects: 0+1=1.  Files: 0+2=2. Errors: 0,0  On 2019-08-08 at 03:16:01
 
-Xref: 1 ref
+Xref: 133 refs
 
-Please see: http:///gh/results.zip
+
 
 http://www.ryffine.com
