@@ -1,9 +1,9 @@
-# Convert pureStorage to Dita s3://purestorage.migration/docbook/results2 PureStorageRestructuring 2019.08.13 completed with 85.7326 % success and 111 failing files
+# Convert pureStorage to Dita s3://purestorage.migration/html/results2 PureStorageRestructuring 2019.08.13 completed with 100 % success
 
-85.7326 % success. Projects: 1+0=1.  Files: 111+667=778. Errors: 3,305  On 2019-08-13 at 03:19:51
+100 % success. Projects: 0+1=1.  Files: 0+442=442. Errors: 0,0  On 2019-08-13 at 03:20:23
 
+Xref: 153 refs
 
-
-Please see: exchange.ryffine/users/aws/pureStorage/
+Please see: aws s3 sync s3://purestorage.migration/restructured or exchange.ryffine/users/aws/pureStorage/
 
 http://www.ryffine.com
