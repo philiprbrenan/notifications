@@ -1,9 +1,9 @@
-# Convert pureStorage to Dita s3://purestorage.migration/mindTouch/results2 PureStorageRestructuring 2019.08.13 completed with 91.6667 % success and 3 failing files
+# Convert pureStorage to Dita s3://purestorage.migration/dita/results2 PureStorageRestructuring 2019.08.13 completed with 100 % success
 
-91.6667 % success. Projects: 1+0=1.  Files: 3+33=36. Errors: 1,3  On 2019-08-13 at 03:20:40
+100 % success. Projects: 0+1=1.  Files: 0+25=25. Errors: 0,0  On 2019-08-13 at 04:25:19
+
+Xref: 252 refs
 
 
-
-Please see: exchange.ryffine/users/aws/pureStorage/
 
 http://www.ryffine.com
