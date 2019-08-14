@@ -1,9 +1,9 @@
-# Convert salesForce to Dita https://github.com/alayton-ryffine/Layton-Challenge SelfServiceXref completed with 0 % success and 2 failing files
+# Convert salesForce to Dita s3://salesforce.dita/originals4/ SelfServiceXref completed with 100 % success
 
-0 % success. Projects: 1+0=1.  Files: 2+0=2. Errors: 6,9  On 2019-08-14 at 15:12:08
-
-
+100 % success. Projects: 0+1=1.  Files: 0+14=14. Errors: 0,0  On 2019-08-14 at 15:13:42
 
 
+
+Please see: aws s3 sync s3://salesforce.dita/results4/ or exchange.ryffine/users/aws/salesForce/
 
 http://www.ryffine.com
