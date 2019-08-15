@@ -1,9 +1,9 @@
-# Convert salesForce to Dita RelTable completed with 92.7460 % success and 2004 failing files
+# Convert to Dita  completed with 100 % success
 
-92.7460 % success. Projects: 1+0=1.  Files: 2004+25622=27626. Errors: 1575,331741  On 2019-08-15 at 00:43:39
+100 % success. Projects: 0+1=1.  Files: 0+3=3. Errors: 0,0  On 2019-08-15 at 17:44:07
+
+Xref: 1 ref
 
 
-
-Please see: exchange.ryffine/users/aws/salesForce/
 
 http://www.ryffine.com
