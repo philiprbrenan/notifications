@@ -1,9 +1,9 @@
-# Convert salesForce to Dita RelTable completed with 92.8129 % success and 1939 failing files
+# Convert salesForce to Dita https://github.com/alayton-ryffine/Layton-Challenge SelfServiceXref completed with 0 % success and 3 failing files
 
-92.8129 % success. Projects: 1+0=1.  Files: 1939+25040=26979. Errors: 1547,330885  On 2019-08-16 at 03:29:08
+0 % success. Projects: 1+0=1.  Files: 3+0=3. Errors: 20,37  On 2019-08-16 at 14:37:43
 
 
 
-Please see: exchange.ryffine/users/aws/salesForce/
+
 
 http://www.ryffine.com
