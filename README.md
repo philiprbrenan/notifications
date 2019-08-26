@@ -1,6 +1,6 @@
-# Convert salesForce to Dita https://github.com/alayton-ryffine/PCD-Testing SelfServiceXref completed with 0 % success and 2 failing files
+# Convert salesForce to Dita https://github.com/alayton-ryffine/PCD-Testing SelfServiceXref completed with 50 % success and 1 failing files
 
-0 % success. Projects: 1+0=1.  Files: 2+0=2. Errors: 8,10  On 2019-08-26 at 22:11:12
+50 % success. Projects: 1+0=1.  Files: 1+1=2. Errors: 7,9  On 2019-08-26 at 22:12:03
 
 
 
