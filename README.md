@@ -1,9 +1,9 @@
-# Convert salesForce to Dita docSet 4 s3://salesforce.dita/originals4/ RelTable completed with 100 % success
+# Convert salesForce to Dita https://github.com/alayton-ryffine/PCD-Testing SelfServiceXref completed with 0 % success and 3 failing files
 
-100 % success. Projects: 0+1=1.  Files: 0+21=21. Errors: 0,0  On 2019-08-27 at 23:52:33
+0 % success. Projects: 1+0=1.  Files: 3+0=3. Errors: 10,12  On 2019-08-27 at 22:52:13
 
 
 
-Please see: aws s3 sync s3://salesforce.dita/results4/ or exchange.ryffine/users/aws/salesForce/
+
 
 http://www.ryffine.com
