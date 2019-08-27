@@ -1,8 +1,8 @@
-# Convert salesForce to Dita https://github.com/alayton-ryffine/PCD-Testing SelfServiceXref completed with 33.3333 % success and 2 failing files
+# Convert salesForce to Dita https://github.com/philiprbrenan/pleaseChangeDita SelfServiceXref completed with 100 % success
 
-33.3333 % success. Projects: 1+0=1.  Files: 2+1=3. Errors: 9,11  On 2019-08-26 at 23:31:24
+100 % success. Projects: 0+1=1.  Files: 0+2=2. Errors: 0,0  On 2019-08-27 at 01:57:48
 
-
+Xref: 3 duplicate topic ids
 
 
 
