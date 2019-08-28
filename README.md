@@ -1,6 +1,6 @@
 # Convert salesForce to Dita docSet 2 s3://salesforce.dita/originals2/ RelTable completed with 100 % success
 
-100 % success. Projects: 0+1=1.  Files: 0+47408=47408. Errors: 0,0  On 2019-08-28 at 18:54:09
+100 % success. Projects: 0+1=1.  Files: 0+47408=47408. Errors: 0,0  On 2019-08-28 at 20:43:32
 
 Xref: 5406 refs, 3391 image refs, 2319 duplicate topic ids, 1202 hrefs missing, 487 duplicate ids, 3 tables, 1 href url encoding
 
