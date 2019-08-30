@@ -1,9 +1,9 @@
-# Convert salesForce to Dita docSet 4 s3://salesforce.dita/originals4/ RelTable completed with 100 % success
+# Convert salesForce to Dita docSet 2 s3://salesforce.dita/originals2/ RelTable completed with 99.9958 % success and 2 failing files
 
-100 % success. Projects: 0+1=1.  Files: 0+21=21. Errors: 0,0  On 2019-08-30 at 20:03:17
+99.9958 % success. Projects: 1+0=1.  Files: 2+47406=47408. Errors: 2,7  On 2019-08-30 at 19:58:46
 
 
 
-Please see: aws s3 sync s3://salesforce.dita/results4/ or exchange.ryffine/users/aws/salesForce/
+Please see: aws s3 sync s3://salesforce.dita/results2/ or exchange.ryffine/users/aws/salesForce/
 
 http://www.ryffine.com
