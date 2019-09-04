@@ -1,9 +1,9 @@
-# Convert salesForce to Dita docSet 5 s3://salesforce.dita/originals5/ Xref 5 completed with 92.8209 % success and 2007 failing files
+# Convert pureStorage to Dita PureStorageRestructuring at 2019.09.04 17:27:22 completed with 100 % success
 
-92.8209 % success. Projects: 1+0=1.  Files: 2007+25949=27956. Errors: 1576,332316  On 2019-09-04 at 16:33:18
+100 % success. Projects: 0+1=1.  Files: 0+9=9. Errors: 0,0  On 2019-09-04 at 18:30:02
 
-Xref: 193819 refs, 8583 duplicate topic ids, 8187 hrefs missing, 876 duplicate ids, 4 image refs
+Xref: 126 refs
 
-Please see: exchange.ryffine/users/aws/salesForce/
+
 
 http://www.ryffine.com
