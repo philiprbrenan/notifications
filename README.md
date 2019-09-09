@@ -1,9 +1,9 @@
-# Convert salesForce to Dita docSet 5 s3://salesforce.dita/originals5/ Classifiation maps completed with 92.8209 % success and 2007 failing files
+# Convert salesForce to Dita docSet 4 s3://salesforce.dita/originals4/ Classifiation maps completed with 100 % success
 
-92.8209 % success. Projects: 1+0=1.  Files: 2007+25949=27956. Errors: 1576,332316  On 2019-09-09 at 16:14:22
+100 % success. Projects: 0+1=1.  Files: 0+22=22. Errors: 0,0  On 2019-09-09 at 17:47:01
 
-Xref: 193819 refs, 8583 duplicate topic ids, 8187 hrefs missing, 876 duplicate ids, 4 image refs
+Xref: 3 duplicate ids, 3 duplicate topic ids, 3 hrefs missing, 1 image ref, 1 ref
 
-Please see: exchange.ryffine/users/aws/salesForce/
+
 
 http://www.ryffine.com
