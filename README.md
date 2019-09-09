@@ -1,9 +1,9 @@
-# Convert pureStorage to Dita 791 completed with 100 % success
+# Convert salesForce to Dita docSet 4 s3://salesforce.dita/originals4/ Xref 5 completed with 100 % success
 
-100 % success. Projects: 0+1=1.  Files: 0+2392=2392. Errors: 0,0  On 2019-09-06 at 20:44:55
+100 % success. Projects: 0+1=1.  Files: 0+22=22. Errors: 0,0  On 2019-09-09 at 14:37:20
 
-Xref: 24 refs, 18 hrefs missing, 1 href url encoding
+Xref: 3 duplicate ids, 3 duplicate topic ids, 3 hrefs missing, 1 image ref, 1 ref
 
-Please see: aws s3 sync s3://purestorage.migration/restructured or exchange.ryffine/users/aws/pureStorage/
+
 
 http://www.ryffine.com
