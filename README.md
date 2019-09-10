@@ -1,9 +1,9 @@
-# Convert salesForce to Dita docSet 2 s3://salesforce.dita/originals2/ Classification maps completed with 100 % success
+# Convert salesForce to Dita s3://salesforce.dita/originals4/ SelfServiceXref completed with 100 % success
 
-100 % success. Projects: 0+1=1.  Files: 0+47408=47408. Errors: 0,0  On 2019-09-09 at 20:14:35
+100 % success. Projects: 0+1=1.  Files: 0+18=18. Errors: 0,0  On 2019-09-10 at 14:39:30
 
-Xref: 5406 refs, 3391 image refs, 2319 duplicate topic ids, 1461 duplicate ids, 1202 hrefs missing, 3 tables, 1 href url encoding
+Xref: 3 duplicate ids, 3 duplicate topic ids, 3 hrefs missing, 1 image ref, 1 ref
 
-Please see: aws s3 sync s3://salesforce.dita/results2/
+Please see: aws s3 sync s3://salesforce.dita/results4/ or exchange.ryffine/users/aws/salesForce/
 
 http://www.ryffine.com
