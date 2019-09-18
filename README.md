@@ -1,9 +1,9 @@
-# Convert salesForce to Dita version: SelfServiceXref s3://salesforce.dita/originals4 SelfServiceXref completed with 94.7368 % success and 1 failing files
+# Convert salesForce to Dita version: SelfServiceXref s3://salesforce.dita/originals4 SelfServiceXref completed with 100 % success
 
-94.7368 % success. Projects: 1+0=1.  Files: 1+18=19. Errors: 1,1  On 2019-09-18 at 20:36:17
+100 % success. Projects: 0+1=1.  Files: 0+18=18. Errors: 0,0  On 2019-09-18 at 20:42:34
 
-Xref: 24 refs, 3 hrefs missing, 1 duplicate id, 1 duplicate topic id, 1 image ref
+Xref: 3 hrefs missing, 1 duplicate id, 1 duplicate topic id, 1 image ref, 1 ref
 
-
+Please see: aws s3 sync s3://salesforce.dita/results4
 
 http://www.ryffine.com
