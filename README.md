@@ -1,8 +1,8 @@
-# Convert salesForce to Dita docSet 4 s3://salesforce.dita/originals4/ Delete unused ids completed with 100 % success
+# Convert to Dita Please supply a source of inout files  completed with 100 % success
 
-100 % success. Projects: 0+1=1.  Files: 0+22=22. Errors: 0,0  On 2019-09-18 at 13:36:55
+100 % success. Projects: 0+1=1.  Files: 0+2=2. Errors: 0,0  On 2019-09-18 at 13:38:41
 
-Xref: 3 hrefs missing, 1 duplicate id, 1 duplicate topic id, 1 image ref, 1 ref
+
 
 
 
