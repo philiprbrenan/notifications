@@ -1,6 +1,6 @@
 # sf4 SF-113 Xref path completed with 43.4783 % success and 13 failing files
 
-43.4783 % success. Projects: 1+0=1.  Files: 13+10=23. Errors: 7,29  On 2019-09-21 at 01:19:24
+43.4783 % success. Projects: 1+0=1.  Files: 13+10=23. Errors: 7,29  On 2019-09-21 at 01:57:02
 
 Xref: 3 hrefs missing, 1 duplicate id, 1 duplicate topic id, 1 image ref, 1 ref
 
