@@ -1,9 +1,9 @@
-# Convert Emerson to Dita, version: "EMER-3" EMER-3 completed with 99.3031 % success and 2 failing files
+# Convert Emerson to Dita, version: "EMER-3" EMER-3 completed with 100 % success
 
-99.3031 % success. Projects: 1+0=1.  Files: 2+285=287. Errors: 2,4  On 2019-09-25 at 00:40:40
+100 % success. Projects: 0+1=1.  Files: 0+287=287. Errors: 0,0  On 2019-09-25 at 00:45:45
 
 Xref: 586 refs, 187 hrefs missing, 56 image refs
 
-Please see: exchange.ryffine/users/aws/Emerson/
+
 
 http://www.ryffine.com
