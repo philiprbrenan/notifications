@@ -1,8 +1,8 @@
-# sfMim SF-113 Xref path completed with 7.6923 % success and 12 failing files
+# sfMim SF-113 Xref path completed with 6.2500 % success and 15 failing files
 
-7.6923 % success. Projects: 1+0=1.  Files: 12+1=13. Errors: 16,28  On 2019-09-24 at 22:17:38
+6.2500 % success. Projects: 1+0=1.  Files: 15+1=16. Errors: 21,38  On 2019-09-24 at 22:21:58
 
-Xref: 3 refs, 1 image ref
+Xref: 4 refs, 2 image refs
 
 Please see: aws s3 sync s3://salesforce.dita/resultsMime or exchange.ryffine/users/aws/salesForce/Mim/
 
