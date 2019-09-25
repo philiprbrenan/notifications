@@ -1,9 +1,9 @@
-# Convert Emerson to Dita, version: "EMER-3", s3://emerson.dita/ditaFromHtml/originals4 EMER-3 completed with 100 % success
+# sfMim SF-113 Xref path completed with 6.2500 % success and 15 failing files
 
-100 % success. Projects: 0+1=1.  Files: 0+287=287. Errors: 0,0  On 2019-09-25 at 01:09:12
+6.2500 % success. Projects: 1+0=1.  Files: 15+1=16. Errors: 21,40  On 2019-09-25 at 01:16:04
 
-Xref: 381 refs, 187 hrefs missing
+Xref: 4 refs, 2 image refs
 
-Please see: aws s3 sync s3://emerson.dita/ditaFromHtml/results4
+Please see: aws s3 sync s3://salesforce.dita/resultsMime or exchange.ryffine/users/aws/salesForce/Mim/
 
 http://www.ryffine.com
