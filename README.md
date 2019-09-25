@@ -1,9 +1,9 @@
-# Convert salesForce to Dita, docSet: 2, version: "SF-113 Xref path", s3://salesforce.dita/originals2/ SF-113 Xref path completed with 41.5225 % success and 27723 failing files
+# emerArvis EMER-3 completed with 100 % success
 
-41.5225 % success. Projects: 1+0=1.  Files: 27723+19685=47408. Errors: 302,154274  On 2019-09-25 at 00:44:09
+100 % success. Projects: 0+1=1.  Files: 0+287=287. Errors: 0,0  On 2019-09-25 at 01:22:52
 
-Xref: 5314 refs, 1202 hrefs missing, 773 duplicate topic ids, 487 duplicate ids, 159 image refs, 142 duplicate files, 3 tables, 1 href url encoding
+Xref: 381 refs, 187 hrefs missing
 
-Please see: aws s3 sync s3://salesforce.dita/results2/e or exchange.ryffine/users/aws/salesForce/
+Please see: aws s3 sync s3://emerson.dita/ditaFromHtml/results4
 
 http://www.ryffine.com
