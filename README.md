@@ -1,6 +1,6 @@
-# sfBill SF-113 Xref path completed with 9.0909 % success and 10 failing files
+# sfBill SF-113 Xref path completed with 8.3333 % success and 11 failing files
 
-9.0909 % success. Projects: 1+0=1.  Files: 10+1=11. Errors: 10,19  On 2019-09-26 at 19:35:07
+8.3333 % success. Projects: 1+0=1.  Files: 11+1=12. Errors: 11,22  On 2019-09-26 at 19:35:56
 
 Xref: 4 refs, 1 duplicate topic id, 1 image ref
 
