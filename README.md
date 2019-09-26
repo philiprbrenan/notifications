@@ -1,8 +1,8 @@
-# sfBill SF-113 Xref path completed with 8.3333 % success and 11 failing files
+# sfBill SF-113 Xref path completed with 0 % success and 3 failing files
 
-8.3333 % success. Projects: 1+0=1.  Files: 11+1=12. Errors: 10,21  On 2019-09-26 at 21:25:28
+0 % success. Projects: 1+0=1.  Files: 3+0=3. Errors: 3,6  On 2019-09-26 at 21:51:07
 
-Xref: 3 refs, 1 duplicate topic id, 1 image ref
+Xref: 1 duplicate topic id
 
 Please see: aws s3 sync s3://salesforce.dita/resultsBill or exchange.ryffine/users/aws/salesForce/Bill/
 
