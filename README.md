@@ -1,9 +1,9 @@
-# Convert Emerson to Dita, version: "EMER-3", s3://emerson.dita/ditaFromHtml/originals4 EMER-3 completed with 100 % success
+# sfBill SF-113 Xref path completed with 9.0909 % success and 10 failing files
 
-100 % success. Projects: 0+1=1.  Files: 0+287=287. Errors: 0,0  On 2019-09-25 at 23:58:11
+9.0909 % success. Projects: 1+0=1.  Files: 10+1=11. Errors: 10,19  On 2019-09-26 at 19:35:07
 
-Xref: 381 refs, 187 hrefs missing
+Xref: 4 refs, 1 duplicate topic id, 1 image ref
 
-Please see: aws s3 sync s3://emerson.dita/ditaFromHtml/results4
+Please see: aws s3 sync s3://salesforce.dita/resultsBille or exchange.ryffine/users/aws/salesForce/Bill/
 
 http://www.ryffine.com
