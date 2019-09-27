@@ -1,9 +1,9 @@
-# Convert to Dita  completed with 100 % success
+# Convert salesForce to Dita, docSet: 4a, version: "SF-113 Xref path", s3://salesforce.dita/originals4a/ SF-113 Xref path completed with 48.6486 % success and 19 failing files
 
-100 % success. Projects: 0+1=1.  Files: 0+2=2. Errors: 0,0  On 2019-09-27 at 20:01:23
+48.6486 % success. Projects: 1+0=1.  Files: 19+18=37. Errors: 11,46  On 2019-09-27 at 20:01:34
 
+Xref: 89 refs, 4 hrefs missing, 3 duplicate topic ids, 1 image ref
 
-
-
+Please see: aws s3 sync s3://salesforce.dita/results4a/ or exchange.ryffine/users/aws/salesForce/
 
 http://www.ryffine.com
