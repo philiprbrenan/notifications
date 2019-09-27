@@ -1,9 +1,9 @@
-# Convert to Dita  completed with 100 % success
+# sfBill SF-113 Xref path completed with 0 % success and 3 failing files
 
-100 % success. Projects: 0+1=1.  Files: 0+2=2. Errors: 0,0  On 2019-09-27 at 13:28:21
-
-
+0 % success. Projects: 1+0=1.  Files: 3+0=3. Errors: 3,7  On 2019-09-27 at 14:44:56
 
 
+
+Please see: aws s3 sync s3://salesforce.dita/resultsBille or exchange.ryffine/users/aws/salesForce/Bill/
 
 http://www.ryffine.com
