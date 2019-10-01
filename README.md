@@ -1,9 +1,9 @@
-# sfMim SF-113 Xref path completed with 12.5000 % success and 14 failing files
+# Convert salesForce to Dita, docSet: 4a, version: "SF-113 Xref path", s3://salesforce.dita/originals4a/ SF-113 Xref path completed with 73.3333 % success and 8 failing files
 
-12.5000 % success. Projects: 1+0=1.  Files: 14+2=16. Errors: 16,22  On 2019-10-01 at 02:53:50
+73.3333 % success. Projects: 1+0=1.  Files: 8+22=30. Errors: 6,21  On 2019-10-01 at 03:10:27
 
-Xref: 4 refs, 2 image refs
+Xref: 47 refs, 4 hrefs missing, 3 duplicate topic ids, 1 image ref
 
-Please see: aws s3 sync s3://salesforce.dita/resultsMim or exchange.ryffine/users/aws/salesForce/Mim/
+Please see: aws s3 sync s3://salesforce.dita/results4a/ or exchange.ryffine/users/aws/salesForce/
 
 http://www.ryffine.com
