@@ -1,6 +1,6 @@
-# sfMim SF-113 Xref path completed with 0 % success and 1 failing files
+# sfMim SF-113 Xref path completed with 100 % success
 
-0 % success. Projects: 1+0=1.  Files: 1+0=1. Errors: 3,3  On 2019-10-07 at 18:19:47
+100 % success. Projects: 0+1=1.  Files: 0+1=1. Errors: 0,0  On 2019-10-07 at 18:26:12
 
 
 
