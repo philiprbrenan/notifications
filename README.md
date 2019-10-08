@@ -1,6 +1,6 @@
-# Convert salesForce to Dita, docSet: 2a, version: "Convert with PCDs", s3://salesforce.dita/originals2a/ Convert with PCDs completed with 95.6769 % success and 2049 failing files
+# Convert salesForce to Dita, docSet: 2a, version: "Convert with PCDs", s3://salesforce.dita/originals2a/ Convert with PCDs completed with 95.7339 % success and 2022 failing files
 
-95.6769 % success. Projects: 1+0=1.  Files: 2049+45348=47397. Errors: 293,4867  On 2019-10-08 at 20:28:45
+95.7339 % success. Projects: 1+0=1.  Files: 2022+45375=47397. Errors: 292,4840  On 2019-10-08 at 20:41:30
 
 
 
