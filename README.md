@@ -1,9 +1,9 @@
-# Convert salesForce to Dita, docSet: 2a, version: "Convert with PCDs", s3://salesforce.dita/originals2a/ Convert with PCDs completed with 96.2593 % success and 1773 failing files
+# sfMim Convert with PCDs completed with 0 % success and 1 failing files
 
-96.2593 % success. Projects: 1+0=1.  Files: 1773+45625=47398. Errors: 278,4386  On 2019-10-10 at 15:17:01
+0 % success. Projects: 1+0=1.  Files: 1+0=1. Errors: 2,2  On 2019-10-10 at 15:42:27
 
 
 
-Please see: aws s3 sync s3://salesforce.dita/results2a/ or exchange.ryffine/users/aws/salesForce/
+
 
 http://www.ryffine.com
