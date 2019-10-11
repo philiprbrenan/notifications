@@ -1,9 +1,9 @@
-# sfBill SF-113 Xref path completed with 0 % success and 2 failing files
+# sfMim Convert with PCDs completed with 0 % success and 1 failing files
 
-0 % success. Projects: 1+0=1.  Files: 2+0=2. Errors: 2,4  On 2019-10-11 at 03:06:38
+0 % success. Projects: 1+0=1.  Files: 1+0=1. Errors: 5,6  On 2019-10-11 at 15:42:16
 
 
 
-Please see: aws s3 sync s3://salesforce.dita/resultsBill or exchange.ryffine/users/aws/salesForce/Bill/
+
 
 http://www.ryffine.com
