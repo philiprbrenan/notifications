@@ -1,9 +1,9 @@
-# sfBill Convert with PCDs completed with 0 % success and 2 failing files
+# Convert to Dita  completed with 100 % success
 
-0 % success. Projects: 1+0=1.  Files: 2+0=2. Errors: 2,4  On 2019-10-10 at 22:44:51
+100 % success. Projects: 0+1=1.  Files: 0+2=2. Errors: 0,0  On 2019-10-11 at 01:47:23
 
 
 
-Please see: aws s3 sync s3://salesforce.dita/resultsBill or exchange.ryffine/users/aws/salesForce/Bill/
+
 
 http://www.ryffine.com
