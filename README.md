@@ -1,9 +1,9 @@
-# Convert to Dita  completed with 100 % success
+# sf4 Convert with PCDs completed with 21.4286 % success and 22 failing files
 
-100 % success. Projects: 0+1=1.  Files: 0+2=2. Errors: 0,0  On 2019-10-15 at 01:19:15
-
-
+21.4286 % success. Projects: 1+0=1.  Files: 22+6=28. Errors: 7,31  On 2019-10-15 at 00:21:27
 
 
+
+Please see: aws s3 sync s3://salesforce.dita/results4 or exchange.ryffine/users/aws/salesForce/4/
 
 http://www.ryffine.com
