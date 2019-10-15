@@ -1,9 +1,9 @@
-# sf2a Convert with PCDs completed with 41.4074 % success and 27777 failing files
+# Convert to Dita  completed with 100 % success
 
-41.4074 % success. Projects: 1+0=1.  Files: 27777+19630=47407. Errors: 224,58691  On 2019-10-14 at 22:48:58
+100 % success. Projects: 0+1=1.  Files: 0+2=2. Errors: 0,0  On 2019-10-15 at 01:18:12
 
 
 
-Please see: aws s3 sync s3://salesforce.dita/results2a or exchange.ryffine/users/aws/salesForce/2a/
+
 
 http://www.ryffine.com
