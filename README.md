@@ -1,6 +1,6 @@
-# sf2a Convert with PCDs completed with 99.5167 % success and 229 failing files
+# sf2a Convert with PCDs completed with 99.5421 % success and 217 failing files
 
-99.5167 % success. Projects: 1+0=1.  Files: 229+47158=47387. Errors: 87,281  On 2019-10-16 at 00:26:10
+99.5421 % success. Projects: 1+0=1.  Files: 217+47170=47387. Errors: 86,269  On 2019-10-16 at 00:57:58
 
 
 
