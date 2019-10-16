@@ -1,6 +1,6 @@
-# sfBill Convert with PCDs completed with 100 % success
+# sfMim Convert with PCDs completed with 100 % success
 
-100 % success. Projects: 0+1=1.  Files: 0+1=1. Errors: 0,0  On 2019-10-16 at 19:42:44
+100 % success. Projects: 0+1=1.  Files: 0+1=1. Errors: 0,0  On 2019-10-16 at 19:42:55
 
 
 
