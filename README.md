@@ -1,9 +1,9 @@
-# sfMim Convert with PCDs completed with 0 % success and 1 failing files
+# sf2a Convert with PCDs completed with 99.9873 % success and 6 failing files
 
-0 % success. Projects: 1+0=1.  Files: 1+0=1. Errors: 3,7  On 2019-10-18 at 04:22:52
-
-
+99.9873 % success. Projects: 1+0=1.  Files: 6+47381=47387. Errors: 5,18  On 2019-10-18 at 04:29:46
 
 
+
+Please see: aws s3 sync s3://salesforce.dita/results2ae
 
 http://www.ryffine.com
