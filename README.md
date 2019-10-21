@@ -1,9 +1,9 @@
-# Convert hyland to Dita, docSet: 1, version: "Start", s3://hyland.frame/originals1 Start completed with 7.8150 % success and 578 failing files
+# sf2a Convert with PCDs completed with 100 % success
 
-7.8150 % success. Projects: 1+0=1.  Files: 578+49=627. Errors: 5,24571  On 2019-10-19 at 22:27:49
+100 % success. Projects: 0+1=1.  Files: 0+47387=47387. Errors: 0,0  On 2019-10-21 at 20:06:00
 
+Xref: 7863 refs, 6252 hrefs missing, 784 duplicate topic ids, 157 duplicate files, 48 duplicate ids, 3 tables, 1 href url encoding
 
-
-
+Please see: aws s3 sync s3://salesforce.dita/results2a
 
 http://www.ryffine.com
