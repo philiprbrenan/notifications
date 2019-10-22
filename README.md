@@ -1,9 +1,9 @@
-# sf2a Convert with PCDs completed with 100 % success
+# sfc2a SF-113 Xref path completed with 99.7989 % success and 21 failing files
 
-100 % success. Projects: 0+1=1.  Files: 0+47406=47406. Errors: 0,0  On 2019-10-22 at 03:39:15
+99.7989 % success. Projects: 1+0=1.  Files: 21+10419=10440. Errors: 7,64  On 2019-10-22 at 21:57:23
 
-Xref: 6252 hrefs missing, 771 duplicate topic ids, 619 refs, 191 duplicate files, 165 duplicate ids, 3 tables, 1 href url encoding
 
-Please see: aws s3 sync s3://salesforce.dita/results2a/2a/
+
+Please see: aws s3 sync s3://salesforce.commerce.cloud.dita/results2a/2a/ or exchange.ryffine/users/aws/salesForce/2a/
 
 http://www.ryffine.com
