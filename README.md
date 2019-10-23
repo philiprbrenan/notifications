@@ -1,6 +1,6 @@
-# Mfm Convert with PCDs completed with 100 % success
+# sf Convert with PCDs completed with 99.9958 % success and 2 failing files
 
-100 % success. Projects: 0+1=1.  Files: 0+1=1. Errors: 0,0  On 2019-10-23 at 19:58:23
+99.9958 % success. Projects: 1+0=1.  Files: 2+47404=47406. Errors: 2,2  On 2019-10-23 at 20:23:23
 
 
 
