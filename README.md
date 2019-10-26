@@ -1,9 +1,9 @@
-# Bill Convert with PCDs completed with 30.3030 % success and 23 failing files
+# sf Convert with PCDs completed with 100 % success
 
-30.3030 % success. Projects: 1+0=1.  Files: 23+10=33. Errors: 7,35  On 2019-10-26 at 00:18:39
-
-
+100 % success. Projects: 0+1=1.  Files: 0+1=1. Errors: 0,0  On 2019-10-26 at 00:29:12
 
 
+
+Please see: aws s3 sync s3://salesforce.dita/results2a/sf/
 
 http://www.ryffine.com
