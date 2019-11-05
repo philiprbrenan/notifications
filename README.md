@@ -1,6 +1,6 @@
-# sf Convert with PCDs completed with 99.9757 % success and 12 failing files
+# sf Convert with PCDs completed with 99.9980 % success and 1 failing files
 
-99.9757 % success. Projects: 1+0=1.  Files: 12+49371=49383. Errors: 2,12  On 2019-11-05 at 22:43:25
+99.9980 % success. Projects: 1+0=1.  Files: 1+49382=49383. Errors: 1,1  On 2019-11-05 at 23:06:04
 
 
 
