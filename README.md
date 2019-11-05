@@ -1,9 +1,9 @@
-# sf Convert with PCDs completed with 99.9838 % success and 8 failing files
+# Phil Convert with PCDs completed with 100 % success
 
-99.9838 % success. Projects: 1+0=1.  Files: 8+49375=49383. Errors: 6,12  On 2019-11-05 at 20:05:08
+100 % success. Projects: 0+1=1.  Files: 0+1=1. Errors: 0,0  On 2019-11-05 at 22:15:58
+
+Xref: 4 refs, 2 image refs
 
 
-
-Please see: aws s3 sync s3://salesforce.dita/results6a/sf/
 
 http://www.ryffine.com
