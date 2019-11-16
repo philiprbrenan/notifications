@@ -1,9 +1,9 @@
-# Convert salesForce to Dita, docSet: 6a, version: "Convert with PCDs", s3://salesforce.dita/originals6a/ Convert with PCDs completed with 100 % success
+# Convert salesForce to Dita, docSet: 6, version: "SF-113 Xref path", s3://salesforce.dita/originals6/ SF-113 Xref path completed with 46.0908 % success and 26574 failing files
 
-100 % success. Projects: 0+1=1.  Files: 0+49397=49397. Errors: 0,0  On 2019-11-14 at 23:27:46
+46.0908 % success. Projects: 1+0=1.  Files: 26574+22720=49294. Errors: 50,49626  On 2019-11-16 at 20:58:45
 
-Xref: 7805 hrefs missing, 818 refs, 723 duplicate topic ids, 246 duplicate ids, 221 duplicate files, 3 tables, 1 href url encoding
+Xref: 3822 refs, 1296 hrefs missing, 734 duplicate topic ids, 479 duplicate ids, 152 image refs, 115 duplicate files, 3 tables, 1 href url encoding
 
-Please see: aws s3 sync s3://salesforce.dita/results6a/sf/
+Please see: aws s3 sync s3://salesforce.dita/results6/base/ or exchange.ryffine/users/aws/salesForce/base/
 
 http://www.ryffine.com
