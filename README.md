@@ -1,9 +1,9 @@
-# Convert salesForce to Dita, docSet: 6a, version: "Convert with PCDs", s3://salesforce.dita/originals6a/ Convert with PCDs completed with 100 % success
+# Mfm Convert with PCDs completed with 99.0632 % success and 4 failing files
 
-100 % success. Projects: 0+1=1.  Files: 0+49292=49292. Errors: 0,0  On 2019-11-16 at 23:33:02
+99.0632 % success. Projects: 1+0=1.  Files: 4+423=427. Errors: 4,8  On 2019-11-18 at 19:07:15
 
-Xref: 4711 hrefs missing, 732 duplicate topic ids, 730 refs, 246 duplicate ids, 163 duplicate files, 3 tables, 1 href url encoding
 
-Please see: aws s3 sync s3://salesforce.dita/results6a/sf/
+
+Please see: aws s3 sync s3://purestorage.migration/results1/Mfm/
 
 http://www.ryffine.com
