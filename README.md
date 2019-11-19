@@ -1,9 +1,9 @@
-# Mfm Convert with PCDs completed with 97.4239 % success and 11 failing files
+# MfmTest Convert with PCDs completed with 0 % success and 1 failing files
 
-97.4239 % success. Projects: 1+0=1.  Files: 11+416=427. Errors: 6,15  On 2019-11-19 at 17:09:19
+0 % success. Projects: 1+0=1.  Files: 1+0=1. Errors: 3,3  On 2019-11-19 at 17:41:35
 
 
 
-Please see: aws s3 sync s3://purestorage.migration/results1/Mfm/
+
 
 http://www.ryffine.com
