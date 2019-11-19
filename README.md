@@ -1,6 +1,6 @@
-# MfmTest Convert with PCDs completed with 0 % success and 1 failing files
+# MfmTest Convert with PCDs completed with 100 % success
 
-0 % success. Projects: 1+0=1.  Files: 1+0=1. Errors: 1,1  On 2019-11-19 at 17:44:07
+100 % success. Projects: 0+1=1.  Files: 0+1=1. Errors: 0,0  On 2019-11-19 at 17:44:57
 
 
 
