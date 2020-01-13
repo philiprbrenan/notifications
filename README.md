@@ -1,5 +1,5 @@
-# MfmS3 Convert with Just PCDs completed with 73.8095 % success and 11 failing files
+# MfmS3 Convert with Just PCDs completed with 25 % success and 3 failing files
 
-Summary of passing and failing projects on: 2020-01-13 at 18:38:37
+Summary of passing and failing projects on: 2020-01-13 at 18:39:31
 
 http://www.ryffine.com
