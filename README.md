@@ -1,5 +1,5 @@
-# Bill Convert with Just PCDs completed with 45.4545 % success and 12 failing files
+# Bill Convert with Just PCDs completed with 100 % success
 
-Summary of passing and failing projects on: 2020-01-16 at 18:55:56
+Summary of passing and failing projects on: 2020-01-16 at 18:57:13
 
 http://www.ryffine.com
