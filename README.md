@@ -1,5 +1,5 @@
-# sf Convert with PCDs completed with 84.0783 % success and 7295 failing files
+# sf Convert with PCDs completed with 66.7276 % success and 728 failing files
 
-Summary of passing and failing projects on: 2020-02-26 at 14:10:31
+Summary of passing and failing projects on: 2020-02-26 at 18:28:33
 
 http://www.ryffine.com
