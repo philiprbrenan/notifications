@@ -1,5 +1,5 @@
-# hyl_02 Convert with PCDs completed with 0 % success and 177 failing files
+# hyl_02 Convert with PCDs completed with 66.9492 % success and 39 failing files
 
-Summary of passing and failing projects on: 2020-03-17 at 23:06:54
+Summary of passing and failing projects on: 2020-03-17 at 23:17:03
 
 http://www.ryffine.com
