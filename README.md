@@ -1,5 +1,5 @@
-# hyl_tst Convert with PCDs completed with 50 % success and 1 failing files
+# hyl_tst Convert with PCDs completed with 100 % success
 
-Summary of passing and failing projects on: 2020-03-17 at 15:53:36
+Summary of passing and failing projects on: 2020-03-17 at 15:56:20
 
 http://www.ryffine.com
